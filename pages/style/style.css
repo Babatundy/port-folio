@@ -1,0 +1,23 @@
+a{
+  text-decoration: none;
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.nav_links{
+  color: #DB5461;
+}
+h1 {
+  margin: 0
+}
+
+body {
+  margin: 0;
+  background-color: #8AA29E;
+}
+
+.nav_bar{
+
+  padding-bottom: 40px;
+  background-color: #686963
+}
