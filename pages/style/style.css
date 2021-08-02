@@ -11,6 +11,7 @@ p {
 h2 {
     font-family: "Dancing Script", cursive;
     color: white;
+    font-size: 30px;
 }
 
 h1 {
@@ -96,15 +97,6 @@ body {
     width: 100px;
 }
 
-.skills {
-    font-family: "Dancing Script", cursive;
-    font-size: 60px;
-    position: absolute;
-    left: 40%;
-    top: 50%;
-    color: white;
-}
-
 .table {
     font-size: 20px;
     position: absolute;
@@ -127,4 +119,31 @@ body {
 
 .oussama {
     color: #d4c2fc;
+}
+
+.skills {
+    font-family: "Dancing Script", cursive;
+    font-size: 60px;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    color: white;
+}
+
+.accounts {
+    font-family: "Dancing Script", cursive;
+    font-size: 60px;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    color: white;
+}
+
+.in_line {
+    display: inline-block;
+}
+
+.in_line_image {
+    height: 70px;
+    width: 70px;
 }
